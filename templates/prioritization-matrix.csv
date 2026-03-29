@@ -1,0 +1,4 @@
+initiative,business_value,feasibility,data_readiness,operational_risk,monitoring_burden,priority_notes
+IVI assistant,5,4,4,3,3,High value with manageable operational load
+Enterprise copilot workflow,4,5,5,2,2,Strong near-term candidate
+Safety-adjacent agent,5,3,3,5,4,Proceed with tighter governance
